@@ -1,0 +1,15 @@
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csprojAssemblyReference.cache
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Formulários.frmMenu.resources
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Formulários.frmProdutos.resources
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Formulários.frmVendas.resources
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Properties.Resources.resources
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.cache
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Login.resources
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Formulários.frmCadastro.resources
+C:\Users\ComputadorPcexbox1\Desktop\C.TADS\Sistema C#\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Formulários.frmClientes.resources
